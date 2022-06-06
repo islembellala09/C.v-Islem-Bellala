@@ -1,0 +1,111 @@
+body
+{ 
+    background-color:rgb(242,242,242);
+    height: 1800px;
+    margin-left:100px;
+    position: relative;
+}
+.header
+{
+   background-color:rgb(55,96,146) ;
+   height: 50px ; 
+   width: 40%;
+}
+.footer
+{
+   background-color:rgb(55,96,146) ;
+   height: 50px ; 
+   width: 40%;
+   position: absolute;
+   bottom: 0;
+   right: 0;
+   
+}
+#info
+{
+    text-align: center;
+    color: rgb(55,96,146)
+}
+.name
+{
+    font-size: 300%;
+}
+.float1
+{
+    width: 30%;
+    height: 10px;
+    float:left;
+    display: flex;
+    flex-direction: column;
+    
+}
+.float2
+{
+    width: 60%;
+    float:left;
+    padding-left:70px ;
+    display: flex;
+    flex-direction: column;
+}
+
+h2
+{
+  color: rgb(55,96,146);
+  font-size:180%;
+  border-bottom:4px solid rgb(55, 96, 146);
+ text-align: left;
+}
+p 
+{
+    font-size: 150%;
+}
+.ul1
+{
+   list-style:circle;
+   font-size: 150%;
+   float:left;
+   padding-left:80px;
+}
+.ul2
+{
+   list-style:circle;
+   font-size: 150%;
+   float:left;
+   padding-left:400px;
+}
+.ul3
+{
+   list-style:circle;
+   font-size: 150%;
+   float:left;
+   padding-left:80px;
+}
+.ul4
+{
+   list-style:circle;
+   font-size: 150%;
+   float:left;
+   padding-left:400px;
+}
+.ul5
+{
+   list-style:circle;
+   font-size: 150%;
+}
+.ul6
+{
+   list-style:circle;
+   font-size: 150%;
+}
+#soft
+{
+    border: 3px;
+    height: 305px;
+}
+#hard
+{
+    border: 3px;>
+    border: 3px;
+    height: 305px;
+}
+
