@@ -59,53 +59,22 @@ p
 {
     font-size: 150%;
 }
-.ul1
+
+.list
+{
+    display: flex;
+    justify-content:flex-start ;
+}
+.ul
 {
    list-style:circle;
    font-size: 150%;
-   float:left;
-   padding-left:80px;
 }
 .ul2
 {
    list-style:circle;
    font-size: 150%;
-   float:left;
-   padding-left:400px;
+   padding-left: 300px ;
 }
-.ul3
-{
-   list-style:circle;
-   font-size: 150%;
-   float:left;
-   padding-left:80px;
-}
-.ul4
-{
-   list-style:circle;
-   font-size: 150%;
-   float:left;
-   padding-left:400px;
-}
-.ul5
-{
-   list-style:circle;
-   font-size: 150%;
-}
-.ul6
-{
-   list-style:circle;
-   font-size: 150%;
-}
-#soft
-{
-    border: 3px;
-    height: 305px;
-}
-#hard
-{
-    border: 3px;
-    border: 3px;
-    height: 305px;
-}
+
 
